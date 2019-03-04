@@ -1,0 +1,95 @@
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.exe.config
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.exe
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.pdb
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Form1.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Properties.Resources.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csproj.GenerateResource.cache
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csproj.CoreCompileInputs.cache
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.exe
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.pdb
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ForgotPassword.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Registration.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\bin\Debug\Database1.mdf
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\bin\Debug\Database1_log.ldf
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.AdminLK.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ClientLK.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.UpdateInfoC.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ReadinessStatus.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Sclad.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.1\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csprojResolveAssemblyReference.cache
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csprojResolveAssemblyReference.cache
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.AdminLK.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ClientLK.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ForgotPassword.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Form1.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Properties.Resources.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ReadinessStatus.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Registration.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Sclad.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.UpdateInfoC.resources
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csproj.GenerateResource.cache
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csproj.CoreCompileInputs.cache
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.exe
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.pdb
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\Database1.mdf
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\Database1_log.ldf
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.exe.config
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.exe
+G:\Download\Dev\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.pdb
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\Database1.mdf
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\Database1_log.ldf
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.exe.config
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.exe
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.pdb
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.AdminLK.resources
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ClientLK.resources
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ForgotPassword.resources
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Form1.resources
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Properties.Resources.resources
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ReadinessStatus.resources
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Registration.resources
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Sclad.resources
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.UpdateInfoC.resources
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csproj.GenerateResource.cache
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csproj.CoreCompileInputs.cache
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.exe
+C:\Users\Invidus\Desktop\Курсач 2\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.pdb
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\Database1.mdf
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\Database1_log.ldf
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.exe.config
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.exe
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.pdb
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csprojResolveAssemblyReference.cache
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.AdminLK.resources
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ClientLK.resources
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ForgotPassword.resources
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Form1.resources
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Properties.Resources.resources
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ReadinessStatus.resources
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Registration.resources
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Sclad.resources
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.UpdateInfoC.resources
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csproj.GenerateResource.cache
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csproj.CoreCompileInputs.cache
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.exe
+C:\Users\Invidus\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.pdb
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\Database1.mdf
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\Database1_log.ldf
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.exe.config
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.exe
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\bin\Debug\KursovoyProekt_Zakazi_v.0.1.pdb
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csprojAssemblyReference.cache
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.AdminLK.resources
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ClientLK.resources
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ForgotPassword.resources
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Form1.resources
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Properties.Resources.resources
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.ReadinessStatus.resources
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Registration.resources
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.Sclad.resources
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v._0._1.UpdateInfoC.resources
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csproj.GenerateResource.cache
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.csproj.CoreCompileInputs.cache
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.exe
+C:\Users\demon\Desktop\Курсовой проект Буянов Д.В\Программа\KursovoyProekt_Zakazi_v.0.2\KursovoyProekt_Zakazi_v.0.1\obj\Debug\KursovoyProekt_Zakazi_v.0.1.pdb
